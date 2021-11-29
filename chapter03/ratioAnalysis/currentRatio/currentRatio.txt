@@ -1,0 +1,7 @@
+Current Ratio - One of the best-known and most widely used ratios is the curent ratio.
+As you might guess, the current ratio is defined as:
+
+Current ratio = Current assets / Current liabilities
+
+Because current assets and liablilities are, in principle, converted to cash over the
+following 12 months, the current ratio is a measure of short-term liquidity.
